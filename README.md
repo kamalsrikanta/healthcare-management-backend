@@ -279,25 +279,24 @@ Add the following images using these filenames if they match the screenshots you
 
 ### 1. User Registration
 
-![User registration response](screenshots/01-user-registration.png)
+<img width="1548" height="964" alt="01-registration-success" src="https://github.com/user-attachments/assets/88a109f3-6202-4ac8-8255-0561129d2d37" />
 
 ### 2. JWT Login
 
-![JWT login response](screenshots/02-jwt-login.png)
+<img width="1534" height="943" alt="02-login-jwt-tokens" src="https://github.com/user-attachments/assets/6b0ccd13-d1a0-4409-a5f7-d6bfd447c23f" />
 
 ### 3. Patient Creation
 
-![Patient creation response](screenshots/03-patient-creation.png)
+<img width="1543" height="936" alt="03-patient-creation-success" src="https://github.com/user-attachments/assets/206c7d2e-b0b9-444a-b80f-cde26decb155" />
 
 ### 4. Doctor Creation
 
-![Doctor creation response](screenshots/04-doctor-creation.png)
+<img width="1554" height="972" alt="04-doctor-creation-success" src="https://github.com/user-attachments/assets/2943524e-6572-4028-9897-9ec305685ab4" />
 
 ### 5. Patient-Doctor Mapping
 
-![Patient doctor mapping response](screenshots/05-patient-doctor-mapping.png)
+<img width="1545" height="973" alt="05-patient-doctor-mapping-retrieval" src="https://github.com/user-attachments/assets/d2813b64-5560-4e22-b530-aae36f8e489c" />
 
-Ensure the filenames and capitalization match the actual files in your repository.
 
 ## Error Handling
 
